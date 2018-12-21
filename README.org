@@ -1,0 +1,14 @@
+Run test.ipynb file, it will take care of everything.
+
+
+Make sure:
+
+1. test.csv, train.csv are present in same directory as test.ipynb
+2. all  pickle files are present in the same directory as test.ipynb
+3. vectorizer.pickle file should also be present in the same directory as
+test.ipynb
+
+Pickle files should be downloaded from this link: 
+https://drive.google.com/open?id=1r4Jt8XWWUKRzLITTwybxmkKZKHepskf0
+
+Refer oops.py for oops version of code.
