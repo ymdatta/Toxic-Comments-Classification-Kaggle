@@ -1,3 +1,7 @@
+#+OPTIONS: toc:nil
+*_This was done as part of ML course project at IIITB._*
+
+* Instuctions to Run:
 Run test.ipynb file, it will take care of everything.
 
 
@@ -12,3 +16,12 @@ Pickle files should be downloaded from this link:
 https://drive.google.com/open?id=1r4Jt8XWWUKRzLITTwybxmkKZKHepskf0
 
 Refer oops.py for oops version of code.
+
+
+
+
+
+* Team Members:
+  - Yelugtoi Mohana Datta (IMT2016012).
+  - Sri Sumanth Yenkipati (IMT2016081).
+  - Sri Ram Marisetty (IMT2016120).
